@@ -17,7 +17,7 @@ public:
                     // for multiple element range
                     res.push_back(to_string(nums[start]) + "->" + to_string(nums[i-1]));
                 }
-                start = i; //update start
+                start = i; //update start to trak first value in a range
             }
             
         }
