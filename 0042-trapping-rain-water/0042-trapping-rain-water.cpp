@@ -9,7 +9,7 @@ public:
         while(left<right){
             if(leftMax<rightMax){
                 left++;
-                if(leftMax<height[left]){
+                if(leftMax<height[left]){ // can also use max()
                     leftMax = height[left];
                 }
                 water += leftMax - height[left];
