@@ -26,6 +26,7 @@
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/devanshu-bisht23/LeetCode/tree/master/0058-length-of-last-word) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/devanshu-bisht23/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Sliding Window
 |  |
