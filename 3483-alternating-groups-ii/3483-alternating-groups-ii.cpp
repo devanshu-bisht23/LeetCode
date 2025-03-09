@@ -7,7 +7,7 @@ public:
         int output = 0; // what we will return at the end
         for(int r=1; r< n + k - 1; r++){
 
-            if(colors[r%n]==colors[(r-1)%n]){ //it means the colors are not alternating
+            if(colors[r%n]==colors[(r-1)%n]){ //it means the colors are not alternating // %n logic is for when loop starts
                 l=r; // we slide the window
             }
 
