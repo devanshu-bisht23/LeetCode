@@ -26,6 +26,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/devanshu-bisht23/LeetCode/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/devanshu-bisht23/LeetCode/tree/master/0058-length-of-last-word) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/devanshu-bisht23/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Sliding Window
@@ -41,8 +42,13 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/devanshu-bisht23/LeetCode/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/devanshu-bisht23/LeetCode/tree/master/0013-roman-to-integer) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/devanshu-bisht23/LeetCode/tree/master/0002-add-two-numbers) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/devanshu-bisht23/LeetCode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
