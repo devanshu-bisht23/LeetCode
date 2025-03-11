@@ -14,11 +14,11 @@ public:
             swap(nums[i], nums[max_idx]);
         }
 
-        int uniqueCount = 1;
+        int Count = 1;
         for(int i = 1; i < n; i++) {
             if(nums[i] != nums[i - 1]) { // Only for counting unique values
-                uniqueCount++;
-                if(uniqueCount == 3) {
+                Count++;
+                if(Count == 3) {
                     return nums[i]; 
                 }
             }
