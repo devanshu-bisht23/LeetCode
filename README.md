@@ -24,6 +24,7 @@
 | [0061-rotate-list](https://github.com/devanshu-bisht23/LeetCode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/devanshu-bisht23/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/devanshu-bisht23/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/devanshu-bisht23/LeetCode/tree/master/0141-linked-list-cycle) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/devanshu-bisht23/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/devanshu-bisht23/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/devanshu-bisht23/LeetCode/tree/master/0092-reverse-linked-list-ii) |
+| [0141-linked-list-cycle](https://github.com/devanshu-bisht23/LeetCode/tree/master/0141-linked-list-cycle) |
 ## Math
 |  |
 | ------- |
@@ -73,6 +75,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/devanshu-bisht23/LeetCode/tree/master/0013-roman-to-integer) |
+| [0141-linked-list-cycle](https://github.com/devanshu-bisht23/LeetCode/tree/master/0141-linked-list-cycle) |
 ## Trie
 |  |
 | ------- |
