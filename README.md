@@ -12,6 +12,7 @@
 | [0066-plus-one](https://github.com/devanshu-bisht23/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/devanshu-bisht23/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/devanshu-bisht23/LeetCode/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/devanshu-bisht23/LeetCode/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/devanshu-bisht23/LeetCode/tree/master/0228-summary-ranges) |
 | [3483-alternating-groups-ii](https://github.com/devanshu-bisht23/LeetCode/tree/master/3483-alternating-groups-ii) |
 ## Two Pointers
@@ -83,6 +84,7 @@
 | [0013-roman-to-integer](https://github.com/devanshu-bisht23/LeetCode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/devanshu-bisht23/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/devanshu-bisht23/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0217-contains-duplicate](https://github.com/devanshu-bisht23/LeetCode/tree/master/0217-contains-duplicate) |
 ## Trie
 |  |
 | ------- |
@@ -100,6 +102,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/devanshu-bisht23/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/devanshu-bisht23/LeetCode/tree/master/0217-contains-duplicate) |
 ## Tree
 |  |
 | ------- |
