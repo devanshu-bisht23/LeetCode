@@ -18,6 +18,7 @@
 | [0027-remove-element](https://github.com/devanshu-bisht23/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/devanshu-bisht23/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/devanshu-bisht23/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/devanshu-bisht23/LeetCode/tree/master/0061-rotate-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -48,6 +49,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/devanshu-bisht23/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/devanshu-bisht23/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0061-rotate-list](https://github.com/devanshu-bisht23/LeetCode/tree/master/0061-rotate-list) |
 ## Math
 |  |
 | ------- |
