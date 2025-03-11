@@ -9,6 +9,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/devanshu-bisht23/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/devanshu-bisht23/LeetCode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/devanshu-bisht23/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0066-plus-one](https://github.com/devanshu-bisht23/LeetCode/tree/master/0066-plus-one) |
 | [0228-summary-ranges](https://github.com/devanshu-bisht23/LeetCode/tree/master/0228-summary-ranges) |
 | [3483-alternating-groups-ii](https://github.com/devanshu-bisht23/LeetCode/tree/master/3483-alternating-groups-ii) |
 ## Two Pointers
@@ -55,6 +56,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/devanshu-bisht23/LeetCode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/devanshu-bisht23/LeetCode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/devanshu-bisht23/LeetCode/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |
