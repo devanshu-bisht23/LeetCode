@@ -11,6 +11,7 @@
 | [0042-trapping-rain-water](https://github.com/devanshu-bisht23/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/devanshu-bisht23/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/devanshu-bisht23/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/devanshu-bisht23/LeetCode/tree/master/0136-single-number) |
 | [0228-summary-ranges](https://github.com/devanshu-bisht23/LeetCode/tree/master/0228-summary-ranges) |
 | [3483-alternating-groups-ii](https://github.com/devanshu-bisht23/LeetCode/tree/master/3483-alternating-groups-ii) |
 ## Two Pointers
@@ -109,4 +110,8 @@
 | ------- |
 | [0100-same-tree](https://github.com/devanshu-bisht23/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/devanshu-bisht23/LeetCode/tree/master/0101-symmetric-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/devanshu-bisht23/LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
