@@ -10,6 +10,7 @@
 | [0035-search-insert-position](https://github.com/devanshu-bisht23/LeetCode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/devanshu-bisht23/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/devanshu-bisht23/LeetCode/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/devanshu-bisht23/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/devanshu-bisht23/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/devanshu-bisht23/LeetCode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/devanshu-bisht23/LeetCode/tree/master/0217-contains-duplicate) |
@@ -25,6 +26,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/devanshu-bisht23/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/devanshu-bisht23/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/devanshu-bisht23/LeetCode/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/devanshu-bisht23/LeetCode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/devanshu-bisht23/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/devanshu-bisht23/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/devanshu-bisht23/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -105,6 +107,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/devanshu-bisht23/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/devanshu-bisht23/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/devanshu-bisht23/LeetCode/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/devanshu-bisht23/LeetCode/tree/master/0414-third-maximum-number) |
