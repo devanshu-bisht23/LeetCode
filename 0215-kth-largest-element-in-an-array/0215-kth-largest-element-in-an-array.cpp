@@ -3,8 +3,8 @@ public:
 
     int search(vector<int>& nums, int l, int r){
 
-        // int x = l + rand() % (r - l + 1); // choose a random element's index
-        // swap(nums[x], nums[r]); //swap the random element with last element
+        int x = l + rand() % (r - l + 1); // choose a random element's index
+        swap(nums[x], nums[r]); //swap the random element with last element
 
         int pivot = nums[r];
         int i = l-1;
@@ -23,10 +23,6 @@ public:
     }
 
     int quickSearch(vector<int>& nums, int l, int r,int k){
-
-        if (l == r) {
-            return nums[l];
-        }
 
         //int n = nums.size()-k;
         if(l<=r){
