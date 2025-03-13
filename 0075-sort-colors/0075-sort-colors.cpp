@@ -3,6 +3,9 @@ public:
 
     int partition (vector<int>&nums, int l, int r){
 
+        int x = l + rand() % (r - l + 1);
+        swap(nums[x], nums[r]);  
+
         int pivot = nums[r];
         int i = l-1;
 
@@ -31,6 +34,7 @@ public:
 
     void sortColors(vector<int>& nums) {
         
+        // srand(time(0));
         // vector<int> arr =
          quickSort(nums,0, nums.size()-1);
         // return arr; 
