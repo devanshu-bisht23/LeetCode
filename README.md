@@ -81,6 +81,7 @@
 | [0002-add-two-numbers](https://github.com/devanshu-bisht23/LeetCode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/devanshu-bisht23/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/devanshu-bisht23/LeetCode/tree/master/0066-plus-one) |
+| [1500-count-largest-group](https://github.com/devanshu-bisht23/LeetCode/tree/master/1500-count-largest-group) |
 | [2383-add-two-integers](https://github.com/devanshu-bisht23/LeetCode/tree/master/2383-add-two-integers) |
 ## Recursion
 |  |
@@ -96,6 +97,7 @@
 | [0141-linked-list-cycle](https://github.com/devanshu-bisht23/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/devanshu-bisht23/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/devanshu-bisht23/LeetCode/tree/master/0217-contains-duplicate) |
+| [1500-count-largest-group](https://github.com/devanshu-bisht23/LeetCode/tree/master/1500-count-largest-group) |
 ## Trie
 |  |
 | ------- |
