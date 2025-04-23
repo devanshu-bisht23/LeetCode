@@ -11,8 +11,8 @@ public:
             hashMap[digSum]++;
         }
 
-        int x;
-        
+        int x = 0;
+
         for(auto &i: hashMap){
             if(i.second > x){
             x = i.second;
