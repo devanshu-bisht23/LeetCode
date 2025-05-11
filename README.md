@@ -14,6 +14,7 @@
 | [0075-sort-colors](https://github.com/devanshu-bisht23/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/devanshu-bisht23/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/devanshu-bisht23/LeetCode/tree/master/0136-single-number) |
+| [0200-number-of-islands](https://github.com/devanshu-bisht23/LeetCode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/devanshu-bisht23/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/devanshu-bisht23/LeetCode/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/devanshu-bisht23/LeetCode/tree/master/0228-summary-ranges) |
@@ -130,12 +131,14 @@
 | ------- |
 | [0100-same-tree](https://github.com/devanshu-bisht23/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/devanshu-bisht23/LeetCode/tree/master/0101-symmetric-tree) |
+| [0200-number-of-islands](https://github.com/devanshu-bisht23/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/devanshu-bisht23/LeetCode/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/devanshu-bisht23/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/devanshu-bisht23/LeetCode/tree/master/0101-symmetric-tree) |
+| [0200-number-of-islands](https://github.com/devanshu-bisht23/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/devanshu-bisht23/LeetCode/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
@@ -166,9 +169,14 @@
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/devanshu-bisht23/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/devanshu-bisht23/LeetCode/tree/master/0547-number-of-provinces) |
 ## Graph
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/devanshu-bisht23/LeetCode/tree/master/0547-number-of-provinces) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/devanshu-bisht23/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
