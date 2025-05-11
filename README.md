@@ -130,11 +130,13 @@
 | ------- |
 | [0100-same-tree](https://github.com/devanshu-bisht23/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/devanshu-bisht23/LeetCode/tree/master/0101-symmetric-tree) |
+| [0547-number-of-provinces](https://github.com/devanshu-bisht23/LeetCode/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/devanshu-bisht23/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/devanshu-bisht23/LeetCode/tree/master/0101-symmetric-tree) |
+| [0547-number-of-provinces](https://github.com/devanshu-bisht23/LeetCode/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
@@ -161,4 +163,12 @@
 |  |
 | ------- |
 | [1824-maximum-number-of-eaten-apples](https://github.com/devanshu-bisht23/LeetCode/tree/master/1824-maximum-number-of-eaten-apples) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/devanshu-bisht23/LeetCode/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/devanshu-bisht23/LeetCode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
