@@ -23,7 +23,7 @@ public:
 
         for(int i = 0; i<n; i++){
             for(int j =0; j<n; j++){
-                if(isConnected[i][j] == 1 && i != j){
+                if(isConnected[i][j] == 1){
                     adj_list[i].push_back(j);
                     adj_list[j].push_back(i);
                 }
