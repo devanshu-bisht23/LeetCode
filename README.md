@@ -18,6 +18,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/devanshu-bisht23/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/devanshu-bisht23/LeetCode/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/devanshu-bisht23/LeetCode/tree/master/0228-summary-ranges) |
+| [0410-split-array-largest-sum](https://github.com/devanshu-bisht23/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/devanshu-bisht23/LeetCode/tree/master/0414-third-maximum-number) |
 | [0542-01-matrix](https://github.com/devanshu-bisht23/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/devanshu-bisht23/LeetCode/tree/master/0733-flood-fill) |
@@ -44,6 +45,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/devanshu-bisht23/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0410-split-array-largest-sum](https://github.com/devanshu-bisht23/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/devanshu-bisht23/LeetCode/tree/master/0542-01-matrix) |
 ## Stack
 |  |
@@ -117,6 +119,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/devanshu-bisht23/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/devanshu-bisht23/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/devanshu-bisht23/LeetCode/tree/master/0035-search-insert-position) |
+| [0410-split-array-largest-sum](https://github.com/devanshu-bisht23/LeetCode/tree/master/0410-split-array-largest-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -179,6 +182,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/devanshu-bisht23/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/devanshu-bisht23/LeetCode/tree/master/1824-maximum-number-of-eaten-apples) |
 ## Union Find
 |  |
@@ -205,4 +209,8 @@
 | ------- |
 | [0207-course-schedule](https://github.com/devanshu-bisht23/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/devanshu-bisht23/LeetCode/tree/master/0210-course-schedule-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/devanshu-bisht23/LeetCode/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
