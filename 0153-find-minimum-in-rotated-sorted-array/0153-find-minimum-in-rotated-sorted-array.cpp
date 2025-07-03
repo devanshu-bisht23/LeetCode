@@ -23,7 +23,7 @@ public:
 
             }else{ 
 
-                if(nums[mid] < res && res <= nums[r]){
+                if(nums[l] < res && res <= nums[r]){
                     l = mid + 1;
                 }else{
                     r = mid - 1;
