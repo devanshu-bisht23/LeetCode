@@ -22,6 +22,7 @@
 | [0228-summary-ranges](https://github.com/devanshu-bisht23/LeetCode/tree/master/0228-summary-ranges) |
 | [0410-split-array-largest-sum](https://github.com/devanshu-bisht23/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/devanshu-bisht23/LeetCode/tree/master/0414-third-maximum-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/devanshu-bisht23/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/devanshu-bisht23/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/devanshu-bisht23/LeetCode/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/devanshu-bisht23/LeetCode/tree/master/0792-binary-search) |
@@ -128,6 +129,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/devanshu-bisht23/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/devanshu-bisht23/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0410-split-array-largest-sum](https://github.com/devanshu-bisht23/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/devanshu-bisht23/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/devanshu-bisht23/LeetCode/tree/master/0792-binary-search) |
 ## Sorting
 |  |
