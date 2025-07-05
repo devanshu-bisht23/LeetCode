@@ -27,6 +27,7 @@
 | [0542-01-matrix](https://github.com/devanshu-bisht23/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/devanshu-bisht23/LeetCode/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/devanshu-bisht23/LeetCode/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/devanshu-bisht23/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0932-monotonic-array](https://github.com/devanshu-bisht23/LeetCode/tree/master/0932-monotonic-array) |
 | [1036-rotting-oranges](https://github.com/devanshu-bisht23/LeetCode/tree/master/1036-rotting-oranges) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/devanshu-bisht23/LeetCode/tree/master/1824-maximum-number-of-eaten-apples) |
@@ -133,6 +134,7 @@
 | [0410-split-array-largest-sum](https://github.com/devanshu-bisht23/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/devanshu-bisht23/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/devanshu-bisht23/LeetCode/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/devanshu-bisht23/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Sorting
 |  |
 | ------- |
