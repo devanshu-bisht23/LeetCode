@@ -31,6 +31,7 @@
 | [0907-koko-eating-bananas](https://github.com/devanshu-bisht23/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0932-monotonic-array](https://github.com/devanshu-bisht23/LeetCode/tree/master/0932-monotonic-array) |
 | [1036-rotting-oranges](https://github.com/devanshu-bisht23/LeetCode/tree/master/1036-rotting-oranges) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/devanshu-bisht23/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/devanshu-bisht23/LeetCode/tree/master/1824-maximum-number-of-eaten-apples) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/devanshu-bisht23/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/devanshu-bisht23/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -137,6 +138,7 @@
 | [0792-binary-search](https://github.com/devanshu-bisht23/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/devanshu-bisht23/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/devanshu-bisht23/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/devanshu-bisht23/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 ## Sorting
 |  |
 | ------- |
