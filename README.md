@@ -34,6 +34,7 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/devanshu-bisht23/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/devanshu-bisht23/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/devanshu-bisht23/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1646-kth-missing-positive-number](https://github.com/devanshu-bisht23/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/devanshu-bisht23/LeetCode/tree/master/1824-maximum-number-of-eaten-apples) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/devanshu-bisht23/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/devanshu-bisht23/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -143,6 +144,7 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/devanshu-bisht23/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/devanshu-bisht23/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/devanshu-bisht23/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1646-kth-missing-positive-number](https://github.com/devanshu-bisht23/LeetCode/tree/master/1646-kth-missing-positive-number) |
 ## Sorting
 |  |
 | ------- |
