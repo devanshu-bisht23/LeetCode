@@ -1,4 +1,4 @@
-class Solution {
+class Solution { // bs on asnwers
 public:
 
     int isPossible(vector<int>& nums, int k, int mid){
@@ -28,7 +28,7 @@ public:
         
         int x = accumulate(nums.begin(),nums.end(),0);
         int l = *max_element(nums.begin(), nums.end());
-        int r = x, res;
+        int r = x, res; 
 
         while(l<=r){
 
