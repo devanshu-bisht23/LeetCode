@@ -1,46 +1,48 @@
 class Solution {
 public:
 
-    bool checkSplit(vector<int>& nums, int k, int mid){
+    int isPossible(vector<int>& nums, int k, int mid){
 
-        int subArray = 0;
-        int curSum = 0;
+        int split = 1, maxi = 0;
 
-        for(int n: nums){
-            curSum += n;
+        for(int i: nums){
 
-            if(curSum > mid){
-                subArray++; // new subarray has been formed 
-                curSum = n; // seprate subarray that is starting from n
+            if(maxi + i <= mid){
+                maxi += i;
+            }else{
+                maxi = i;
+                split++;
             }
+
         }
 
-        if (subArray + 1 <= k) {
-            return true;
+        if(split <= k){
+            return 1;
         }else{
-            return false;
-}
-
+            return 0;
+        }
 
     }
 
-
     int splitArray(vector<int>& nums, int k) {
         
+        int x = accumulate(nums.begin(),nums.end(),0);
         int l = *max_element(nums.begin(), nums.end());
-        int r = accumulate(nums.begin(), nums.end(), 0);
- 
-        while(l<=r){
-            
-            int mid = l + (r-l) / 2;
+        int r = x, res;
 
-            if(checkSplit(nums , k , mid) == true){
+        while(l<=r){
+
+            int mid = l + (r-l)/2;
+
+            if(isPossible(nums, k, mid)){
+                res = mid;
                 r = mid - 1;
             }else{
                 l = mid + 1;
             }
         }
 
-    return l;
+    return res;
+
     }
 };
