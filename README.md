@@ -41,6 +41,7 @@
 | [1646-kth-missing-positive-number](https://github.com/devanshu-bisht23/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/devanshu-bisht23/LeetCode/tree/master/1824-maximum-number-of-eaten-apples) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/devanshu-bisht23/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2027-maximum-number-of-removable-characters](https://github.com/devanshu-bisht23/LeetCode/tree/master/2027-maximum-number-of-removable-characters) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/devanshu-bisht23/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [3483-alternating-groups-ii](https://github.com/devanshu-bisht23/LeetCode/tree/master/3483-alternating-groups-ii) |
 ## Two Pointers
@@ -56,6 +57,7 @@
 | [0088-merge-sorted-array](https://github.com/devanshu-bisht23/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/devanshu-bisht23/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/devanshu-bisht23/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [2027-maximum-number-of-removable-characters](https://github.com/devanshu-bisht23/LeetCode/tree/master/2027-maximum-number-of-removable-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -80,6 +82,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/devanshu-bisht23/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/devanshu-bisht23/LeetCode/tree/master/0058-length-of-last-word) |
 | [0127-word-ladder](https://github.com/devanshu-bisht23/LeetCode/tree/master/0127-word-ladder) |
+| [2027-maximum-number-of-removable-characters](https://github.com/devanshu-bisht23/LeetCode/tree/master/2027-maximum-number-of-removable-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/devanshu-bisht23/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3617-find-the-original-typed-string-i](https://github.com/devanshu-bisht23/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 ## Sliding Window
@@ -154,6 +157,7 @@
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/devanshu-bisht23/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/devanshu-bisht23/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/devanshu-bisht23/LeetCode/tree/master/1646-kth-missing-positive-number) |
+| [2027-maximum-number-of-removable-characters](https://github.com/devanshu-bisht23/LeetCode/tree/master/2027-maximum-number-of-removable-characters) |
 ## Sorting
 |  |
 | ------- |
