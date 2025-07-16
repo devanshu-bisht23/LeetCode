@@ -15,13 +15,14 @@ public:
             
             string word = q.front().first;
             int count = q.front().second; 
+            string temp = word;
 
             q.pop();
 
             if(endWord == word) return count;
 
             for(int i=0; i<word.size(); i++){
-                char orignal = word[i];
+                
                 for(int j = 'a'; j<='z'; j++){
                     
                     word[i] = j;
@@ -32,7 +33,7 @@ public:
                     }
 
                 }
-                word[i] = orignal;
+                word = temp;
             }
         }
 
