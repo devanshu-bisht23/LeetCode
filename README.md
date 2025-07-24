@@ -19,6 +19,7 @@
 | [0136-single-number](https://github.com/devanshu-bisht23/LeetCode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/devanshu-bisht23/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/devanshu-bisht23/LeetCode/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/devanshu-bisht23/LeetCode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/devanshu-bisht23/LeetCode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/devanshu-bisht23/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/devanshu-bisht23/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -58,6 +59,7 @@
 | [0088-merge-sorted-array](https://github.com/devanshu-bisht23/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/devanshu-bisht23/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/devanshu-bisht23/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/devanshu-bisht23/LeetCode/tree/master/0189-rotate-array) |
 | [2027-maximum-number-of-removable-characters](https://github.com/devanshu-bisht23/LeetCode/tree/master/2027-maximum-number-of-removable-characters) |
 ## Dynamic Programming
 |  |
@@ -113,6 +115,7 @@
 | [0002-add-two-numbers](https://github.com/devanshu-bisht23/LeetCode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/devanshu-bisht23/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/devanshu-bisht23/LeetCode/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/devanshu-bisht23/LeetCode/tree/master/0189-rotate-array) |
 | [1500-count-largest-group](https://github.com/devanshu-bisht23/LeetCode/tree/master/1500-count-largest-group) |
 | [2383-add-two-integers](https://github.com/devanshu-bisht23/LeetCode/tree/master/2383-add-two-integers) |
 ## Recursion
