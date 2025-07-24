@@ -25,6 +25,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/devanshu-bisht23/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/devanshu-bisht23/LeetCode/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/devanshu-bisht23/LeetCode/tree/master/0228-summary-ranges) |
+| [0283-move-zeroes](https://github.com/devanshu-bisht23/LeetCode/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/devanshu-bisht23/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/devanshu-bisht23/LeetCode/tree/master/0414-third-maximum-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/devanshu-bisht23/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -60,6 +61,7 @@
 | [0141-linked-list-cycle](https://github.com/devanshu-bisht23/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/devanshu-bisht23/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/devanshu-bisht23/LeetCode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/devanshu-bisht23/LeetCode/tree/master/0283-move-zeroes) |
 | [2027-maximum-number-of-removable-characters](https://github.com/devanshu-bisht23/LeetCode/tree/master/2027-maximum-number-of-removable-characters) |
 ## Dynamic Programming
 |  |
