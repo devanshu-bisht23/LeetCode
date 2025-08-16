@@ -3,21 +3,16 @@ public:
     int missingNumber(vector<int>& nums) {
         
         int n = nums.size();
+        unordered_map<int,int> hashMap;
+        for(int i = 0; i<n; i++){
+            hashMap[nums[i]] = 1; 
+        }
 
         for(int i=0; i<=n; i++){
-            int flag = 0;
-            for(int j=0; j<n; j++){
-                if(nums[j] == i){
-                    flag = 1;
-                    break;
-                }
-            }
-
-            if(flag == 0){
+            if(hashMap.find(i) == hashMap.end()){
                 return i;
             }
-
         }
-        return 0;
+    return 0;
     }
 };
