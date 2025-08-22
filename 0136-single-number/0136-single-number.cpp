@@ -1,17 +1,12 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        unordered_map<int,int> hashMap;
+        int xorr = 0;
 
-        for(const auto& num : nums){
-            hashMap[num]++;
+        for(int num:nums){
+            xorr ^= num;
         }
 
-        for(const auto& i: hashMap){
-            if(i.second == 1){
-                return i.first; 
-            }
-        }
-        return 0;
-    } 
+        return xorr;
+    }
 };
