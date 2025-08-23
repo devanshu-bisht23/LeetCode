@@ -9,7 +9,7 @@ public:
             sum+= nums[i];
 
             if(sum>res){
-                res = max(sum,res);
+                res=sum;
             }
 
             if(sum<0){
