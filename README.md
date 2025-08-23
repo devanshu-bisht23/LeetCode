@@ -19,6 +19,7 @@
 | [0136-single-number](https://github.com/devanshu-bisht23/LeetCode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/devanshu-bisht23/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/devanshu-bisht23/LeetCode/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/devanshu-bisht23/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/devanshu-bisht23/LeetCode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/devanshu-bisht23/LeetCode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/devanshu-bisht23/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
@@ -137,6 +138,7 @@
 | [0127-word-ladder](https://github.com/devanshu-bisht23/LeetCode/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/devanshu-bisht23/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/devanshu-bisht23/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/devanshu-bisht23/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/devanshu-bisht23/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/devanshu-bisht23/LeetCode/tree/master/0268-missing-number) |
 | [1500-count-largest-group](https://github.com/devanshu-bisht23/LeetCode/tree/master/1500-count-largest-group) |
@@ -176,6 +178,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/devanshu-bisht23/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/devanshu-bisht23/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/devanshu-bisht23/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/devanshu-bisht23/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/devanshu-bisht23/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/devanshu-bisht23/LeetCode/tree/master/0268-missing-number) |
@@ -237,6 +240,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/devanshu-bisht23/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/devanshu-bisht23/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/devanshu-bisht23/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -290,4 +294,8 @@
 | [0209-minimum-size-subarray-sum](https://github.com/devanshu-bisht23/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/devanshu-bisht23/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/devanshu-bisht23/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/devanshu-bisht23/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
