@@ -2,23 +2,22 @@ class Solution {
 public:
     void sortColors(vector<int>& nums) {
         
-        unordered_map<int,int> hashMap;
+        int low = 0, mid = 0, high = nums.size()-1;
 
-        for(int num: nums){
-            hashMap[num]++;
-        }
+        while(mid<=high){
 
-        int j =0;
-        for(int i = 0; i<3;i++){
-
-            while(hashMap[i]>0){
-                nums[j++] = i; 
-                hashMap[i]--;
+            if(nums[mid] == 0){
+                swap(nums[mid],nums[low]);
+                low++;
+                mid++;
+            }else if(nums[mid] == 1){
+                mid++;
+            }else{
+                swap(nums[mid],nums[high]);
+                high--;
             }
-      
 
         }
-
 
     }
 };
