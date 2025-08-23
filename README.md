@@ -95,6 +95,7 @@
 | [0127-word-ladder](https://github.com/devanshu-bisht23/LeetCode/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/devanshu-bisht23/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [2027-maximum-number-of-removable-characters](https://github.com/devanshu-bisht23/LeetCode/tree/master/2027-maximum-number-of-removable-characters) |
+| [2032-largest-odd-number-in-string](https://github.com/devanshu-bisht23/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/devanshu-bisht23/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3617-find-the-original-typed-string-i](https://github.com/devanshu-bisht23/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 ## Sliding Window
@@ -127,6 +128,7 @@
 | [0189-rotate-array](https://github.com/devanshu-bisht23/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/devanshu-bisht23/LeetCode/tree/master/0268-missing-number) |
 | [1500-count-largest-group](https://github.com/devanshu-bisht23/LeetCode/tree/master/1500-count-largest-group) |
+| [2032-largest-odd-number-in-string](https://github.com/devanshu-bisht23/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2383-add-two-integers](https://github.com/devanshu-bisht23/LeetCode/tree/master/2383-add-two-integers) |
 ## Recursion
 |  |
@@ -262,6 +264,7 @@
 | [0410-split-array-largest-sum](https://github.com/devanshu-bisht23/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/devanshu-bisht23/LeetCode/tree/master/1824-maximum-number-of-eaten-apples) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/devanshu-bisht23/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2032-largest-odd-number-in-string](https://github.com/devanshu-bisht23/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Union Find
 |  |
 | ------- |
