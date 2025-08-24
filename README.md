@@ -95,6 +95,7 @@
 | [0058-length-of-last-word](https://github.com/devanshu-bisht23/LeetCode/tree/master/0058-length-of-last-word) |
 | [0127-word-ladder](https://github.com/devanshu-bisht23/LeetCode/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/devanshu-bisht23/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/devanshu-bisht23/LeetCode/tree/master/0205-isomorphic-strings) |
 | [2027-maximum-number-of-removable-characters](https://github.com/devanshu-bisht23/LeetCode/tree/master/2027-maximum-number-of-removable-characters) |
 | [2032-largest-odd-number-in-string](https://github.com/devanshu-bisht23/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/devanshu-bisht23/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -146,6 +147,7 @@
 | [0141-linked-list-cycle](https://github.com/devanshu-bisht23/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/devanshu-bisht23/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/devanshu-bisht23/LeetCode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/devanshu-bisht23/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/devanshu-bisht23/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/devanshu-bisht23/LeetCode/tree/master/0268-missing-number) |
 | [1500-count-largest-group](https://github.com/devanshu-bisht23/LeetCode/tree/master/1500-count-largest-group) |
