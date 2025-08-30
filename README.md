@@ -17,6 +17,7 @@
 | [0075-sort-colors](https://github.com/devanshu-bisht23/LeetCode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/devanshu-bisht23/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/devanshu-bisht23/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/devanshu-bisht23/LeetCode/tree/master/0090-subsets-ii) |
 | [0130-surrounded-regions](https://github.com/devanshu-bisht23/LeetCode/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/devanshu-bisht23/LeetCode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/devanshu-bisht23/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -251,6 +252,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/devanshu-bisht23/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/devanshu-bisht23/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/devanshu-bisht23/LeetCode/tree/master/0268-missing-number) |
 ## Divide and Conquer
@@ -323,4 +325,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/devanshu-bisht23/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/devanshu-bisht23/LeetCode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
