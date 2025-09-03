@@ -76,6 +76,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/devanshu-bisht23/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/devanshu-bisht23/LeetCode/tree/master/0053-maximum-subarray) |
+| [0131-palindrome-partitioning](https://github.com/devanshu-bisht23/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0410-split-array-largest-sum](https://github.com/devanshu-bisht23/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/devanshu-bisht23/LeetCode/tree/master/0542-01-matrix) |
 ## Stack
@@ -96,6 +97,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/devanshu-bisht23/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/devanshu-bisht23/LeetCode/tree/master/0058-length-of-last-word) |
 | [0127-word-ladder](https://github.com/devanshu-bisht23/LeetCode/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/devanshu-bisht23/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/devanshu-bisht23/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/devanshu-bisht23/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/devanshu-bisht23/LeetCode/tree/master/0242-valid-anagram) |
@@ -331,4 +333,5 @@
 | ------- |
 | [0040-combination-sum-ii](https://github.com/devanshu-bisht23/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/devanshu-bisht23/LeetCode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/devanshu-bisht23/LeetCode/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
