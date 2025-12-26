@@ -57,6 +57,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/devanshu-bisht23/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/devanshu-bisht23/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2027-maximum-number-of-removable-characters](https://github.com/devanshu-bisht23/LeetCode/tree/master/2027-maximum-number-of-removable-characters) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/devanshu-bisht23/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/devanshu-bisht23/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [3483-alternating-groups-ii](https://github.com/devanshu-bisht23/LeetCode/tree/master/3483-alternating-groups-ii) |
 ## Two Pointers
@@ -76,6 +77,7 @@
 | [0189-rotate-array](https://github.com/devanshu-bisht23/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/devanshu-bisht23/LeetCode/tree/master/0283-move-zeroes) |
 | [2027-maximum-number-of-removable-characters](https://github.com/devanshu-bisht23/LeetCode/tree/master/2027-maximum-number-of-removable-characters) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/devanshu-bisht23/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -361,4 +363,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/devanshu-bisht23/LeetCode/tree/master/0062-unique-paths) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/devanshu-bisht23/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
