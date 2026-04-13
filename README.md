@@ -56,6 +56,7 @@
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/devanshu-bisht23/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/devanshu-bisht23/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/devanshu-bisht23/LeetCode/tree/master/1824-maximum-number-of-eaten-apples) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/devanshu-bisht23/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/devanshu-bisht23/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/devanshu-bisht23/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2027-maximum-number-of-removable-characters](https://github.com/devanshu-bisht23/LeetCode/tree/master/2027-maximum-number-of-removable-characters) |
