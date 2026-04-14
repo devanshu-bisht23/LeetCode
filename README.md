@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/devanshu-bisht23/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/devanshu-bisht23/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/devanshu-bisht23/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/devanshu-bisht23/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -177,6 +178,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/devanshu-bisht23/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/devanshu-bisht23/LeetCode/tree/master/0013-roman-to-integer) |
 | [0127-word-ladder](https://github.com/devanshu-bisht23/LeetCode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/devanshu-bisht23/LeetCode/tree/master/0128-longest-consecutive-sequence) |
