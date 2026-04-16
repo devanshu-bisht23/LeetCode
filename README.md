@@ -40,6 +40,7 @@
 | [0228-summary-ranges](https://github.com/devanshu-bisht23/LeetCode/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/devanshu-bisht23/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/devanshu-bisht23/LeetCode/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/devanshu-bisht23/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/devanshu-bisht23/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/devanshu-bisht23/LeetCode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/devanshu-bisht23/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -353,6 +354,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/devanshu-bisht23/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/devanshu-bisht23/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/devanshu-bisht23/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/devanshu-bisht23/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Counting
@@ -382,4 +384,8 @@
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/devanshu-bisht23/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/devanshu-bisht23/LeetCode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
