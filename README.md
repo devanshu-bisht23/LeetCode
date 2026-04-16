@@ -54,6 +54,7 @@
 | [1036-rotting-oranges](https://github.com/devanshu-bisht23/LeetCode/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/devanshu-bisht23/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](https://github.com/devanshu-bisht23/LeetCode/tree/master/1073-number-of-enclaves) |
+| [1352-product-of-the-last-k-numbers](https://github.com/devanshu-bisht23/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/devanshu-bisht23/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/devanshu-bisht23/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/devanshu-bisht23/LeetCode/tree/master/1646-kth-missing-positive-number) |
@@ -163,6 +164,7 @@
 | [0070-climbing-stairs](https://github.com/devanshu-bisht23/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/devanshu-bisht23/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/devanshu-bisht23/LeetCode/tree/master/0268-missing-number) |
+| [1352-product-of-the-last-k-numbers](https://github.com/devanshu-bisht23/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/devanshu-bisht23/LeetCode/tree/master/1500-count-largest-group) |
 | [2032-largest-odd-number-in-string](https://github.com/devanshu-bisht23/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2383-add-two-integers](https://github.com/devanshu-bisht23/LeetCode/tree/master/2383-add-two-integers) |
@@ -356,6 +358,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/devanshu-bisht23/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/devanshu-bisht23/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/devanshu-bisht23/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [1352-product-of-the-last-k-numbers](https://github.com/devanshu-bisht23/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/devanshu-bisht23/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Counting
 |  |
@@ -388,4 +391,9 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/devanshu-bisht23/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [1352-product-of-the-last-k-numbers](https://github.com/devanshu-bisht23/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/devanshu-bisht23/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
