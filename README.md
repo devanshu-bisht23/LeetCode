@@ -15,6 +15,7 @@
 | [0035-search-insert-position](https://github.com/devanshu-bisht23/LeetCode/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/devanshu-bisht23/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/devanshu-bisht23/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/devanshu-bisht23/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/devanshu-bisht23/LeetCode/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/devanshu-bisht23/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/devanshu-bisht23/LeetCode/tree/master/0064-minimum-path-sum) |
@@ -91,6 +92,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/devanshu-bisht23/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/devanshu-bisht23/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/devanshu-bisht23/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/devanshu-bisht23/LeetCode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/devanshu-bisht23/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/devanshu-bisht23/LeetCode/tree/master/0063-unique-paths-ii) |
@@ -314,6 +316,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/devanshu-bisht23/LeetCode/tree/master/0045-jump-game-ii) |
 | [0410-split-array-largest-sum](https://github.com/devanshu-bisht23/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/devanshu-bisht23/LeetCode/tree/master/1824-maximum-number-of-eaten-apples) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/devanshu-bisht23/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
