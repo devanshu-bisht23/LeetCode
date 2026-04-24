@@ -7,9 +7,9 @@ public:
 
         unordered_set<string> st(wordList.begin(), wordList.end());
         
-        if(st.find(beginWord)!=st.end()){
-            st.erase(beginWord);
-        }
+        // if(st.find(beginWord)!=st.end()){
+        //     st.erase(beginWord);
+        // }
  
         while(!q.empty()){
             
