@@ -3,41 +3,38 @@ public:
     int ladderLength(string beginWord, string endWord, vector<string>& wordList) {
         
         queue<pair<string,int>> q;
-        q.push({beginWord,1}); 
+        q.push({beginWord,1});
 
-        unordered_set<string> st(wordList.begin(), wordList.end());
-        
-        // if(st.find(beginWord)!=st.end()){
-        //     st.erase(beginWord);
-        // }
- 
+        unordered_set<string> st(wordList.begin(),wordList.end());
+
         while(!q.empty()){
-            
+
             string word = q.front().first;
-            int count = q.front().second; 
-            string temp = word;
+            int count = q.front().second;
 
             q.pop();
 
-            if(endWord == word) return count;
-
             for(int i=0; i<word.size(); i++){
-                
-                for(int j = 'a'; j<='z'; j++){
-                    
-                    word[i] = j;
 
-                    if(st.find(word) != st.end()){
-                        q.push({word,count+1});
-                        st.erase(word);
+                string target = word;
+
+                for(int j='a'; j<='z'; j++){
+                    target[i] = j;
+
+                    if(st.find(target) != st.end()){
+                        q.push({target,count+1});
+                        st.erase(target);
                     }
 
+                    if(q.front().first == endWord) return q.front().second;
+
                 }
-                word = temp;
+
             }
+
         }
 
-    return 0;
+        return 0;
 
     }
 };
