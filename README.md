@@ -59,6 +59,7 @@
 | [1073-number-of-enclaves](https://github.com/devanshu-bisht23/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1352-product-of-the-last-k-numbers](https://github.com/devanshu-bisht23/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/devanshu-bisht23/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/devanshu-bisht23/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/devanshu-bisht23/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/devanshu-bisht23/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/devanshu-bisht23/LeetCode/tree/master/1824-maximum-number-of-eaten-apples) |
@@ -107,6 +108,7 @@
 | [0213-house-robber-ii](https://github.com/devanshu-bisht23/LeetCode/tree/master/0213-house-robber-ii) |
 | [0410-split-array-largest-sum](https://github.com/devanshu-bisht23/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/devanshu-bisht23/LeetCode/tree/master/0542-01-matrix) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/devanshu-bisht23/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Stack
 |  |
 | ------- |
@@ -247,6 +249,7 @@
 | [0268-missing-number](https://github.com/devanshu-bisht23/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/devanshu-bisht23/LeetCode/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/devanshu-bisht23/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/devanshu-bisht23/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/devanshu-bisht23/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Tree
 |  |
