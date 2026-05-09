@@ -104,6 +104,7 @@
 | [0070-climbing-stairs](https://github.com/devanshu-bisht23/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devanshu-bisht23/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/devanshu-bisht23/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/devanshu-bisht23/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/devanshu-bisht23/LeetCode/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/devanshu-bisht23/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/devanshu-bisht23/LeetCode/tree/master/0213-house-robber-ii) |
@@ -133,6 +134,7 @@
 | [0126-word-ladder-ii](https://github.com/devanshu-bisht23/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/devanshu-bisht23/LeetCode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/devanshu-bisht23/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/devanshu-bisht23/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/devanshu-bisht23/LeetCode/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/devanshu-bisht23/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/devanshu-bisht23/LeetCode/tree/master/0205-isomorphic-strings) |
