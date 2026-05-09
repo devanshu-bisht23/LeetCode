@@ -31,7 +31,7 @@ public:
 
     }
 
-    int minCut(string s) {
+    int minCut(string &s) {
         int n = s.size();
         vector<int> dp(n+1,-1);
         return f(0,n,s,dp) - 1;
