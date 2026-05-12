@@ -56,6 +56,7 @@
 | [0907-koko-eating-bananas](https://github.com/devanshu-bisht23/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0932-monotonic-array](https://github.com/devanshu-bisht23/LeetCode/tree/master/0932-monotonic-array) |
 | [1036-rotting-oranges](https://github.com/devanshu-bisht23/LeetCode/tree/master/1036-rotting-oranges) |
+| [1043-partition-array-for-maximum-sum](https://github.com/devanshu-bisht23/LeetCode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/devanshu-bisht23/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](https://github.com/devanshu-bisht23/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1352-product-of-the-last-k-numbers](https://github.com/devanshu-bisht23/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
@@ -111,6 +112,7 @@
 | [0312-burst-balloons](https://github.com/devanshu-bisht23/LeetCode/tree/master/0312-burst-balloons) |
 | [0410-split-array-largest-sum](https://github.com/devanshu-bisht23/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/devanshu-bisht23/LeetCode/tree/master/0542-01-matrix) |
+| [1043-partition-array-for-maximum-sum](https://github.com/devanshu-bisht23/LeetCode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/devanshu-bisht23/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Stack
 |  |
