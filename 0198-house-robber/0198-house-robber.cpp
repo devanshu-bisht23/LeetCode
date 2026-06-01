@@ -1,27 +1,33 @@
 class Solution {
 public:
 
-    int func(int ind, int choice, vector<int> &nums, vector<vector<int>> &dp){
+    int rec(vector<int>& nums, int i, vector<int> &dp){
 
-        if(ind == 0){
-            if(choice == 0) return nums[ind];
+        if(i == 0){
+            return nums[i];
+        }
+
+        if(i<0){
             return 0;
         }
 
-        if(dp[ind][choice] != -1) return dp[ind][choice];
+        if(dp[i] != -1){ 
+            return dp[i];
+        }
 
-        int notPick = func(ind-1,0,nums,dp) + 0;
-        int pick = 0;
+        int pick = nums[i] + rec(nums,i-2,dp); 
 
-        if(choice != 1) pick = func(ind-1,1,nums,dp) + nums[ind];
+        int notPick = 0 + rec(nums,i-1,dp);
 
-        return dp[ind][choice] = max(pick,notPick);
+        return dp[i] = max(pick,notPick);
 
     }
 
     int rob(vector<int>& nums) {
-        int n = nums.size()-1;
-        vector<vector<int>> dp(n+1, vector<int>(2,-1));
-        return func(n,0, nums, dp); // 0 means nth picked
+        
+        int i = nums.size()-1;
+        vector<int> dp(i+1,-1);
+        return rec(nums,i, dp);
+
     }
 };
