@@ -1,26 +1,22 @@
 class Solution {
 public:
 
-    
-    int steps(int n, vector<int> &dp){
+    int f(int idx, int n, vector<int> &dp){
 
-        if(n==0 || n==1){
-            return 1;
-        }
+        if(idx == n) return 1;
+        if(idx > n) return 0;
 
-        if(dp[n]!=-1){
-            return dp[n];
-        }
+        if(dp[idx] != -1) return dp[idx];
 
-        return dp[n] = steps(n-1,dp) + steps(n-2,dp); 
+        int one = f(idx+1,n,dp);
+        int two = f(idx+2,n,dp);
+
+        return dp[idx] = one + two;
 
     }
 
-
     int climbStairs(int n) {
-
         vector<int> dp(n+1,-1);
-        return steps(n, dp);
-
+        return f(0,n,dp);
     }
 };
