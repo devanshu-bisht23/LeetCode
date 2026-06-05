@@ -47,6 +47,7 @@
 | [0312-burst-balloons](https://github.com/devanshu-bisht23/LeetCode/tree/master/0312-burst-balloons) |
 | [0410-split-array-largest-sum](https://github.com/devanshu-bisht23/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/devanshu-bisht23/LeetCode/tree/master/0414-third-maximum-number) |
+| [0416-partition-equal-subset-sum](https://github.com/devanshu-bisht23/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/devanshu-bisht23/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/devanshu-bisht23/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/devanshu-bisht23/LeetCode/tree/master/0542-01-matrix) |
@@ -111,6 +112,7 @@
 | [0213-house-robber-ii](https://github.com/devanshu-bisht23/LeetCode/tree/master/0213-house-robber-ii) |
 | [0312-burst-balloons](https://github.com/devanshu-bisht23/LeetCode/tree/master/0312-burst-balloons) |
 | [0410-split-array-largest-sum](https://github.com/devanshu-bisht23/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/devanshu-bisht23/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/devanshu-bisht23/LeetCode/tree/master/0542-01-matrix) |
 | [1043-partition-array-for-maximum-sum](https://github.com/devanshu-bisht23/LeetCode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/devanshu-bisht23/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
