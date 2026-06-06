@@ -73,6 +73,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/devanshu-bisht23/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/devanshu-bisht23/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [3483-alternating-groups-ii](https://github.com/devanshu-bisht23/LeetCode/tree/master/3483-alternating-groups-ii) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/devanshu-bisht23/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -93,6 +94,7 @@
 | [0283-move-zeroes](https://github.com/devanshu-bisht23/LeetCode/tree/master/0283-move-zeroes) |
 | [2027-maximum-number-of-removable-characters](https://github.com/devanshu-bisht23/LeetCode/tree/master/2027-maximum-number-of-removable-characters) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/devanshu-bisht23/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/devanshu-bisht23/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -245,6 +247,7 @@
 | [1646-kth-missing-positive-number](https://github.com/devanshu-bisht23/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/devanshu-bisht23/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2027-maximum-number-of-removable-characters](https://github.com/devanshu-bisht23/LeetCode/tree/master/2027-maximum-number-of-removable-characters) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/devanshu-bisht23/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sorting
 |  |
 | ------- |
@@ -259,6 +262,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/devanshu-bisht23/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/devanshu-bisht23/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/devanshu-bisht23/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/devanshu-bisht23/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Tree
 |  |
 | ------- |
@@ -342,6 +346,7 @@
 | [1824-maximum-number-of-eaten-apples](https://github.com/devanshu-bisht23/LeetCode/tree/master/1824-maximum-number-of-eaten-apples) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/devanshu-bisht23/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/devanshu-bisht23/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/devanshu-bisht23/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Union Find
 |  |
 | ------- |
