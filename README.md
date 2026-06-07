@@ -71,6 +71,7 @@
 | [1966-frequency-of-the-most-frequent-element](https://github.com/devanshu-bisht23/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2027-maximum-number-of-removable-characters](https://github.com/devanshu-bisht23/LeetCode/tree/master/2027-maximum-number-of-removable-characters) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/devanshu-bisht23/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/devanshu-bisht23/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/devanshu-bisht23/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/devanshu-bisht23/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [3483-alternating-groups-ii](https://github.com/devanshu-bisht23/LeetCode/tree/master/3483-alternating-groups-ii) |
@@ -216,6 +217,7 @@
 | [0268-missing-number](https://github.com/devanshu-bisht23/LeetCode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/devanshu-bisht23/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1500-count-largest-group](https://github.com/devanshu-bisht23/LeetCode/tree/master/1500-count-largest-group) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/devanshu-bisht23/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Trie
 |  |
 | ------- |
@@ -272,6 +274,7 @@
 | [0101-symmetric-tree](https://github.com/devanshu-bisht23/LeetCode/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/devanshu-bisht23/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/devanshu-bisht23/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/devanshu-bisht23/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -315,6 +318,7 @@
 | [0101-symmetric-tree](https://github.com/devanshu-bisht23/LeetCode/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/devanshu-bisht23/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/devanshu-bisht23/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/devanshu-bisht23/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Bit Manipulation
 |  |
 | ------- |
