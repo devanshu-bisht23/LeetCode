@@ -71,6 +71,7 @@
 | [1966-frequency-of-the-most-frequent-element](https://github.com/devanshu-bisht23/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2027-maximum-number-of-removable-characters](https://github.com/devanshu-bisht23/LeetCode/tree/master/2027-maximum-number-of-removable-characters) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/devanshu-bisht23/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/devanshu-bisht23/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/devanshu-bisht23/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/devanshu-bisht23/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/devanshu-bisht23/LeetCode/tree/master/2574-left-and-right-sum-differences) |
@@ -96,6 +97,7 @@
 | [0283-move-zeroes](https://github.com/devanshu-bisht23/LeetCode/tree/master/0283-move-zeroes) |
 | [2027-maximum-number-of-removable-characters](https://github.com/devanshu-bisht23/LeetCode/tree/master/2027-maximum-number-of-removable-characters) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/devanshu-bisht23/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/devanshu-bisht23/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/devanshu-bisht23/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Dynamic Programming
 |  |
@@ -425,6 +427,7 @@
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/devanshu-bisht23/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/devanshu-bisht23/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Design
 |  |
 | ------- |
