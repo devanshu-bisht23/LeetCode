@@ -17,6 +17,7 @@
 | [0042-trapping-rain-water](https://github.com/devanshu-bisht23/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/devanshu-bisht23/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/devanshu-bisht23/LeetCode/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/devanshu-bisht23/LeetCode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/devanshu-bisht23/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/devanshu-bisht23/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/devanshu-bisht23/LeetCode/tree/master/0066-plus-one) |
@@ -258,6 +259,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/devanshu-bisht23/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/devanshu-bisht23/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/devanshu-bisht23/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/devanshu-bisht23/LeetCode/tree/master/0169-majority-element) |
