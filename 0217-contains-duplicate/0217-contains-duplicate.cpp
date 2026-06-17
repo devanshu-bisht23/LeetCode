@@ -2,17 +2,19 @@ class Solution {
 public:
     bool containsDuplicate(vector<int>& nums) {
         
-        unordered_map<int,int> hashMap; // we set out hashmap
+        unordered_map<int,int> hash;
 
-        for(int i=0;i<nums.size();i++){ // loop through the array nums
-
-            if(hashMap.count(nums[i])){
-                return true; // return true if value is found again in the hashMap
-            }
-
-        hashMap[nums[i]] = i; // put value is that value isnt in hashMap
+        for(int i=0; i<nums.size(); i++){
+            hash[nums[i]]++;
         }
-        
-return false; // return false if value aint repeating
+
+        for(auto &h:hash){
+            if(h.second > 1){
+                return true;
+            }
+        }
+
+        return false;
+
     }
 };
