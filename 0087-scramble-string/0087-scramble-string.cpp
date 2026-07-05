@@ -2,9 +2,7 @@ class Solution {
     unordered_map<string, bool> mem;
 
     bool solve(string s1, string s2) {
-        if (s1.size() == 1)
-            return s1 == s2;
-
+        
         if (s1 == s2)
             return true;
 
