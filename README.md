@@ -65,6 +65,7 @@
 | [1043-partition-array-for-maximum-sum](https://github.com/devanshu-bisht23/LeetCode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/devanshu-bisht23/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](https://github.com/devanshu-bisht23/LeetCode/tree/master/1073-number-of-enclaves) |
+| [1288-remove-covered-intervals](https://github.com/devanshu-bisht23/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1352-product-of-the-last-k-numbers](https://github.com/devanshu-bisht23/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/devanshu-bisht23/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/devanshu-bisht23/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -277,6 +278,7 @@
 | [0268-missing-number](https://github.com/devanshu-bisht23/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/devanshu-bisht23/LeetCode/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/devanshu-bisht23/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [1288-remove-covered-intervals](https://github.com/devanshu-bisht23/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/devanshu-bisht23/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/devanshu-bisht23/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/devanshu-bisht23/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
