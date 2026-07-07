@@ -202,6 +202,7 @@
 | [1500-count-largest-group](https://github.com/devanshu-bisht23/LeetCode/tree/master/1500-count-largest-group) |
 | [2032-largest-odd-number-in-string](https://github.com/devanshu-bisht23/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2383-add-two-integers](https://github.com/devanshu-bisht23/LeetCode/tree/master/2383-add-two-integers) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/devanshu-bisht23/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3830-find-closest-person](https://github.com/devanshu-bisht23/LeetCode/tree/master/3830-find-closest-person) |
 ## Recursion
 |  |
