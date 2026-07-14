@@ -119,6 +119,7 @@
 | [0064-minimum-path-sum](https://github.com/devanshu-bisht23/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/devanshu-bisht23/LeetCode/tree/master/0070-climbing-stairs) |
 | [0087-scramble-string](https://github.com/devanshu-bisht23/LeetCode/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/devanshu-bisht23/LeetCode/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devanshu-bisht23/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/devanshu-bisht23/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/devanshu-bisht23/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
@@ -152,6 +153,7 @@
 | [0038-count-and-say](https://github.com/devanshu-bisht23/LeetCode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/devanshu-bisht23/LeetCode/tree/master/0058-length-of-last-word) |
 | [0087-scramble-string](https://github.com/devanshu-bisht23/LeetCode/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/devanshu-bisht23/LeetCode/tree/master/0091-decode-ways) |
 | [0126-word-ladder-ii](https://github.com/devanshu-bisht23/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/devanshu-bisht23/LeetCode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/devanshu-bisht23/LeetCode/tree/master/0131-palindrome-partitioning) |
