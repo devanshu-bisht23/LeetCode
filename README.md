@@ -128,6 +128,7 @@
 | [0198-house-robber](https://github.com/devanshu-bisht23/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/devanshu-bisht23/LeetCode/tree/master/0213-house-robber-ii) |
 | [0312-burst-balloons](https://github.com/devanshu-bisht23/LeetCode/tree/master/0312-burst-balloons) |
+| [0397-integer-replacement](https://github.com/devanshu-bisht23/LeetCode/tree/master/0397-integer-replacement) |
 | [0410-split-array-largest-sum](https://github.com/devanshu-bisht23/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/devanshu-bisht23/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/devanshu-bisht23/LeetCode/tree/master/0542-01-matrix) |
@@ -344,6 +345,7 @@
 | [0090-subsets-ii](https://github.com/devanshu-bisht23/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/devanshu-bisht23/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/devanshu-bisht23/LeetCode/tree/master/0268-missing-number) |
+| [0397-integer-replacement](https://github.com/devanshu-bisht23/LeetCode/tree/master/0397-integer-replacement) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -367,6 +369,7 @@
 | [0011-container-with-most-water](https://github.com/devanshu-bisht23/LeetCode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/devanshu-bisht23/LeetCode/tree/master/0045-jump-game-ii) |
 | [0134-gas-station](https://github.com/devanshu-bisht23/LeetCode/tree/master/0134-gas-station) |
+| [0397-integer-replacement](https://github.com/devanshu-bisht23/LeetCode/tree/master/0397-integer-replacement) |
 | [0410-split-array-largest-sum](https://github.com/devanshu-bisht23/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/devanshu-bisht23/LeetCode/tree/master/1824-maximum-number-of-eaten-apples) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/devanshu-bisht23/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -438,6 +441,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/devanshu-bisht23/LeetCode/tree/master/0070-climbing-stairs) |
 | [0140-word-break-ii](https://github.com/devanshu-bisht23/LeetCode/tree/master/0140-word-break-ii) |
+| [0397-integer-replacement](https://github.com/devanshu-bisht23/LeetCode/tree/master/0397-integer-replacement) |
 ## Combinatorics
 |  |
 | ------- |
