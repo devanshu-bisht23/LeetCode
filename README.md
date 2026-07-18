@@ -54,6 +54,7 @@
 | [0414-third-maximum-number](https://github.com/devanshu-bisht23/LeetCode/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/devanshu-bisht23/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/devanshu-bisht23/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/devanshu-bisht23/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/devanshu-bisht23/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/devanshu-bisht23/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/devanshu-bisht23/LeetCode/tree/master/0733-flood-fill) |
@@ -140,10 +141,12 @@
 | [0042-trapping-rain-water](https://github.com/devanshu-bisht23/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/devanshu-bisht23/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/devanshu-bisht23/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/devanshu-bisht23/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/devanshu-bisht23/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/devanshu-bisht23/LeetCode/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
 | ------- |
@@ -233,6 +236,7 @@
 | [0242-valid-anagram](https://github.com/devanshu-bisht23/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/devanshu-bisht23/LeetCode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/devanshu-bisht23/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/devanshu-bisht23/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1500-count-largest-group](https://github.com/devanshu-bisht23/LeetCode/tree/master/1500-count-largest-group) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/devanshu-bisht23/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Trie
