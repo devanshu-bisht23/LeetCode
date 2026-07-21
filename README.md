@@ -54,6 +54,7 @@
 | [0414-third-maximum-number](https://github.com/devanshu-bisht23/LeetCode/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/devanshu-bisht23/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/devanshu-bisht23/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/devanshu-bisht23/LeetCode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/devanshu-bisht23/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/devanshu-bisht23/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/devanshu-bisht23/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -133,6 +134,7 @@
 | [0397-integer-replacement](https://github.com/devanshu-bisht23/LeetCode/tree/master/0397-integer-replacement) |
 | [0410-split-array-largest-sum](https://github.com/devanshu-bisht23/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/devanshu-bisht23/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/devanshu-bisht23/LeetCode/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/devanshu-bisht23/LeetCode/tree/master/0542-01-matrix) |
 | [1043-partition-array-for-maximum-sum](https://github.com/devanshu-bisht23/LeetCode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/devanshu-bisht23/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -443,6 +445,7 @@
 | [0126-word-ladder-ii](https://github.com/devanshu-bisht23/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/devanshu-bisht23/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/devanshu-bisht23/LeetCode/tree/master/0140-word-break-ii) |
+| [0494-target-sum](https://github.com/devanshu-bisht23/LeetCode/tree/master/0494-target-sum) |
 ## Memoization
 |  |
 | ------- |
