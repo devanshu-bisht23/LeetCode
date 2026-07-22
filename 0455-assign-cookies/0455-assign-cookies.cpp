@@ -7,14 +7,14 @@ public:
         int ans = 0;
         int i = 0, j = 0;
 
-        while(i<g.size()){
+        while(i<g.size() && j<s.size()){
 
-            if(g[i] == s[j]){
+            if(g[i] <= s[j]){
                 ans++;
-                j++;
+                i++;
             }
 
-            i++;
+            j++;
 
         }
 
