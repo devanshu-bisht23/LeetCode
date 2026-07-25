@@ -474,4 +474,12 @@
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/devanshu-bisht23/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/devanshu-bisht23/LeetCode/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/devanshu-bisht23/LeetCode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
