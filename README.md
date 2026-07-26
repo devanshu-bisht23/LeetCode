@@ -65,6 +65,7 @@
 | [0882-peak-index-in-a-mountain-array](https://github.com/devanshu-bisht23/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/devanshu-bisht23/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0932-monotonic-array](https://github.com/devanshu-bisht23/LeetCode/tree/master/0932-monotonic-array) |
+| [0994-rotting-oranges](https://github.com/devanshu-bisht23/LeetCode/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/devanshu-bisht23/LeetCode/tree/master/1036-rotting-oranges) |
 | [1043-partition-array-for-maximum-sum](https://github.com/devanshu-bisht23/LeetCode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/devanshu-bisht23/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -340,6 +341,7 @@
 | [0733-flood-fill](https://github.com/devanshu-bisht23/LeetCode/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/devanshu-bisht23/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/devanshu-bisht23/LeetCode/tree/master/0820-find-eventual-safe-states) |
+| [0994-rotting-oranges](https://github.com/devanshu-bisht23/LeetCode/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/devanshu-bisht23/LeetCode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/devanshu-bisht23/LeetCode/tree/master/1073-number-of-enclaves) |
 ## Binary Tree
@@ -414,6 +416,7 @@
 | [0200-number-of-islands](https://github.com/devanshu-bisht23/LeetCode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/devanshu-bisht23/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/devanshu-bisht23/LeetCode/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/devanshu-bisht23/LeetCode/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/devanshu-bisht23/LeetCode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/devanshu-bisht23/LeetCode/tree/master/1073-number-of-enclaves) |
 ## Topological Sort
