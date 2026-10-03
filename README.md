@@ -485,4 +485,8 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/devanshu-bisht23/LeetCode/tree/master/0547-number-of-provinces) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/devanshu-bisht23/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
