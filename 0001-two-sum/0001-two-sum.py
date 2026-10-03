@@ -1,15 +1,14 @@
 class Solution:
-    def twoSum(self, nums: List[int], target: int) -> List[int]:
-        prevMap = {} # map
+    def twoSum(self, nums: list[int], target: int) -> list[int]:
+        
+        hash = {}
 
-        for i, n in enumerate(nums):
-            diff = target - n
+        for i in range(len(nums)):
+            diff = target - nums[i]
 
-            if diff in prevMap:
-                return [prevMap[diff],i]
+            if diff in hash:
+                return [hash[diff],i]
             
-            prevMap[n] = i
-        
-        return 
+            hash[nums[i]] = i
 
-        
+        return 
